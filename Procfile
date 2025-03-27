@@ -1,0 +1,1 @@
+worker: python ismabot.py
